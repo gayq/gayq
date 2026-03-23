@@ -1,3 +1,1 @@
-<div align="center">
-  <img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
-</div>
+<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
